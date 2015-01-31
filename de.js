@@ -1593,7 +1593,8 @@ enchantables[62][0] ="K\u00f6der";
  ttCloseXML="Den XML Editor schlie\u00dfen. Stelle sicher, dass du deine \u00c4nderungen importierst (sofern du diese beibehalten m\u00f6chtest).";
  
  //Pages
+ppNews="news-de.html";
 ppHelp="help-de.html"; //rename to help-de.html
-ppAbout="about.html";//rename to about-de.html
+ppAbout="about-de.html";//rename to about-de.html
 ppTerms="termsandprivacy-de.html";//rename to termsandprivacy-de.html
 }

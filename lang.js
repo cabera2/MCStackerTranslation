@@ -1596,6 +1596,7 @@ var ttCloseXML="Close the XML Editor. Import your edits before closing if you wi
 
 
 //Pages
+var ppNews="news.html";
 var ppHelp="help.html";
 var ppAbout="about.html";
 var ppTerms="termsandprivacy.html";
