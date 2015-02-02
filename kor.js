@@ -690,10 +690,10 @@ var ttRequiredPlayerRange="스포너가 엔티티 소환을 시작하기 위해 
 var llDelay="딜레이";
 var ttDelay="플레이어가 처음 감지되고부터 엔티티가 소환되기까지의 틱.";
 var llMinSpawnDelay="최소 스폰 딜레이";
-var ttMinSpawnDelay="After the first spawn, this is the minimum amount of ticks before more entities can spawn.";
+var ttMinSpawnDelay="첫 스폰 후, 다음 스폰까지의 최소 틱.";
 var llMaxSpawnDelay="최대 스폰 딜레이";
-var ttMaxSpawnDelay="Similar to MinSpawnDelay. After the first spawn, this is the maximum amount of ticks before more entities can spawn.";
-var llMaxNearbyEntities="Max Nearby Entities";
+var ttMaxSpawnDelay="첫 스폰 후, 다음 스폰까지의 최대 틱.";
+var llMaxNearbyEntities="최대 인근 엔티티";
 var ttMaxNearbyEntities="Checks the number of entities within the spawn range ('SpawnRange' tag). If the number of entities it detects is over the set MaxNearbyEntities number, it will not spawn more entities unless the amount of entities within the spawn range is decreased.";
 
 var llPlayerName="플레이어 이름";
