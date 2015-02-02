@@ -676,10 +676,10 @@ var llAddEntity="엔티티 추가";
 var ttAddEntity="스택 맨 아래에 엔티티를 추가합니다.";
 var llSummonCoords="소환 좌표";
 var llRelativeCoords="상대 좌표";
-var ttRelativeCoords="Check if the entity is summoned at a location relative to the command block. Uncheck to summon the entity at a specific co-ordinate.";
-var ttSummonX="The X position to summon the entity at.";
-var ttSummonY="The Y position to summon the entity at.";
-var ttSummonZ="The Z position to summon the entity at.";
+var ttRelativeCoords="엔티티를 상대 좌표에 소환하려면 체크하세요. 엔티티를 절대 좌표에 소환하려면 체크를 해제하세요.";
+var ttSummonX="엔티티를 소환하고자 하는 X 좌표.";
+var ttSummonY="엔티티를 소환하고자 하는 Y 좌표.";
+var ttSummonZ="엔티티를 소환하고자 하는 Z 좌표.";
 
 var llSpawnCount="Spawn Count";
 var ttSpawnCount="How many entities the spawner will spawn at one time.";
