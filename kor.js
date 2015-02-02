@@ -664,18 +664,18 @@ var items=new Array(["0","None"],
 ["record_wait","Wait Disc"]);
 
 
-var llCommandType="Command Type";
-var ttCommandType="Choose which kind of command you wish to generate.";
-var llResetForm="Reset Form";
-var ttResetForm="These settings will be reset to the default.";
-var llSaveAs="Save As New Command";
+var llCommandType="멍령어 종류";
+var ttCommandType="생성하고자 하는 명령어의 종류를 선택하세요.";
+var llResetForm="양식 초기화";
+var ttResetForm="모든 설정을 기본값으로 되돌립니다.";
+var llSaveAs="새 명령어로 저장";
 var ttSaveAs="These settings will be saved as a new command with no derivative relationship created.";
-var llEnchantAll="Enchant Non-enchantables (Shows enchant options for all items)";
-var ttEnchantAll="All item selections will allow enchantment options. You may need to reselect the item to show/hide the enchantment options.";
-var llAddEntity="Add Entity";
-var ttAddEntity="Add an entity to the bottom of the stack.";
-var llSummonCoords="Summon Co-ordinates";
-var llRelativeCoords="Relative Co-ordinates";
+var llEnchantAll="인챈트 불가 아이템도 표시 (모든 아이템에 인챈트 옵션을 표시합니다.)";
+var ttEnchantAll="모든 아이템에 인챈트 옵션을 사용할 수 있게 됩니다. 인챈트 옵션을 표시하거나 숨기려면 아이템을 다시 선택해야합니다.";
+var llAddEntity="엔티티 추가";
+var ttAddEntity="스택 맨 아래에 엔티티를 추가합니다.";
+var llSummonCoords="소환 좌표";
+var llRelativeCoords="상대 좌표";
 var ttRelativeCoords="Check if the entity is summoned at a location relative to the command block. Uncheck to summon the entity at a specific co-ordinate.";
 var ttSummonX="The X position to summon the entity at.";
 var ttSummonY="The Y position to summon the entity at.";
